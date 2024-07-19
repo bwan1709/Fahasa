@@ -1,0 +1,392 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Trốn lên mái nhà để khóc",
+      "cost": 116.2,
+      "Giamcost": "27%",
+      "Originalcost": 159,
+      "anh": "suhuongtheongay-1.jpg",
+      "nhacungcap": "Thiên Long Hoàn Cầu",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "vang"
+    },
+    {
+      "id": 2,
+      "name": "Bàn Cờ Lớn",
+      "cost": 116.2,
+      "Giamcost": "27%",
+      "Originalcost": 159,
+      "anh": "suhuongtheongay-2.jpg",
+      "nhacungcap": "Thiên Long Hoàn Cầu",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "vang"
+    },
+    {
+      "id": 3,
+      "name": "Lì Xì Gieo Quẻ 12 Con Giáp Tết Giáp Thìn - Teenage",
+      "cost": 19.2,
+      "Giamcost": "24%",
+      "Originalcost": 25,
+      "anh": "suhuongtheongay-3.jpg",
+      "nhacungcap": "Thiên Long Hoàn Cầu",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "do"
+    },
+    {
+      "id": 4,
+      "name": "Bộ Tranh Tương Tác Cô Tiên Xanh",
+      "cost": 72.2,
+      "Giamcost": "24%",
+      "Originalcost": 95,
+      "anh": "suhuongtheongay-4.jpg",
+      "nhacungcap": "Thiên Long Hoàn Cầu",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "do"
+    },
+    {
+      "id": 5,
+      "name": "MBA Bằng Hình - The Usual MBA",
+      "cost": 147.42,
+      "Giamcost": "22%",
+      "Originalcost": 189,
+      "anh": "suhuongtheongay-5.jpg",
+      "nhacungcap": "Alpha Books",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "xanhduong"
+    },
+    {
+      "id": 6,
+      "name": "TVアニメ「ホリミヤ」公式ファンブック 卒アル - Horimiya (TV Animation) Official Fanbook: Sotsuaru",
+      "cost": 477,
+      "Giamcost": "24%",
+      "Originalcost": 530,
+      "anh": "xuhuongtheongay-6.jpg",
+      "nhacungcap": "Alpha Books",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "NhatBan",
+      "mausac": "trang"
+    },
+    {
+      "id": 7,
+      "name": "The Power Of Moments",
+      "cost": 195.3,
+      "Giamcost": "24%",
+      "Originalcost": 217,
+      "anh": "xuhuongtheongay7.jpg",
+      "nhacungcap": "Alpha Books",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "xanhduong"
+    },
+    {
+      "id": 8,
+      "name": "Iron Flame - The Empyrean Series",
+      "cost": 491.4,
+      "Giamcost": "24%",
+      "Originalcost": 546,
+      "anh": "xuhuongtheongay8.jpg",
+      "nhacungcap": "Alpha Books",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "xanhduong"
+    },
+    {
+      "id": 9,
+      "name": "Nghệ Thuật Tư Duy Chiến Lược",
+      "cost": 174.47,
+      "Giamcost": "24%",
+      "Originalcost": 239,
+      "anh": "thuonghieunoibat-1.jpg",
+      "nhacungcap": "Bình Tây",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "trang"
+    },
+    {
+      "id": 10,
+      "name": "Tư Duy Nhanh Và Chậm",
+      "cost": 174.47,
+      "Giamcost": "24%",
+      "Originalcost": 239,
+      "anh": "thuonghieunoibat-2.jpg",
+      "nhacungcap": "Bình Tây",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "trang"
+    },
+    {
+      "id": 11,
+      "name": "Sapiens - Lược Sử Loaì Người",
+      "cost": 174.47,
+      "Giamcost": "24%",
+      "Originalcost": 239,
+      "anh": "thuonghieunoibat-3.jpg",
+      "nhacungcap": "Bình Tây",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "trang"
+    },
+    {
+      "id": 12,
+      "name": "Tập Vẽ Và Thiết Kế",
+      "cost": 174.47,
+      "Giamcost": "24%",
+      "Originalcost": 239,
+      "anh": "thuonghieunoibat-4.jpg",
+      "nhacungcap": "Bình Tây",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "trang"
+    }
+  ],
+  "Products2": [
+    {
+      "id": 1,
+      "name": "Trốn lên mái nhà để cười",
+      "cost": 116.2,
+      "Giamcost": "27%",
+      "Originalcost": 159,
+      "anh": "suhuongtheongay-1.jpg",
+      "nhacungcap": "Thiên Long Hoàn Cầu",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "vang"
+    },
+    {
+      "id": 2,
+      "name": "Bàn Cờ Lớn",
+      "cost": 116.2,
+      "Giamcost": "27%",
+      "Originalcost": 159,
+      "anh": "suhuongtheongay-2.jpg",
+      "nhacungcap": "Thiên Long Hoàn Cầu",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "vang"
+    },
+    {
+      "id": 3,
+      "name": "Lì Xì Gieo Quẻ 12 Con Giáp Tết Giáp Thìn - Teenage",
+      "cost": 19.2,
+      "Giamcost": "24%",
+      "Originalcost": 25,
+      "anh": "suhuongtheongay-3.jpg",
+      "nhacungcap": "Thiên Long Hoàn Cầu",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "do"
+    },
+    {
+      "id": 4,
+      "name": "Bộ Tranh Tương Tác Cô Tiên Xanh",
+      "cost": 72.2,
+      "Giamcost": "24%",
+      "Originalcost": 95,
+      "anh": "suhuongtheongay-4.jpg",
+      "nhacungcap": "Thiên Long Hoàn Cầu",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "do"
+    },
+    {
+      "id": 5,
+      "name": "MBA Bằng Hình - The Usual MBA",
+      "cost": 147.42,
+      "Giamcost": "22%",
+      "Originalcost": 189,
+      "anh": "suhuongtheongay-5.jpg",
+      "nhacungcap": "Alpha Books",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "xanhduong"
+    },
+    {
+      "id": 6,
+      "name": "TVアニメ「ホリミヤ」公式ファンブック 卒アル - Horimiya (TV Animation) Official Fanbook: Sotsuaru",
+      "cost": 477,
+      "Giamcost": "24%",
+      "Originalcost": 530,
+      "anh": "xuhuongtheongay-6.jpg",
+      "nhacungcap": "Alpha Books",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "NhatBan",
+      "mausac": "trang"
+    },
+    {
+      "id": 7,
+      "name": "The Power Of Moments",
+      "cost": 195.3,
+      "Giamcost": "24%",
+      "Originalcost": 217,
+      "anh": "xuhuongtheongay7.jpg",
+      "nhacungcap": "Alpha Books",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "xanhduong"
+    },
+    {
+      "id": 8,
+      "name": "Iron Flame - The Empyrean Series",
+      "cost": 491.4,
+      "Giamcost": "24%",
+      "Originalcost": 546,
+      "anh": "xuhuongtheongay8.jpg",
+      "nhacungcap": "Alpha Books",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "xanhduong"
+    },
+    {
+      "id": 9,
+      "name": "Nghệ Thuật Tư Duy Chiến Lược",
+      "cost": 174.47,
+      "Giamcost": "24%",
+      "Originalcost": 239,
+      "anh": "thuonghieunoibat-1.jpg",
+      "nhacungcap": "Bình Tây",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "trang"
+    },
+    {
+      "id": 10,
+      "name": "Tư Duy Nhanh Và Chậm",
+      "cost": 174.47,
+      "Giamcost": "24%",
+      "Originalcost": 239,
+      "anh": "thuonghieunoibat-2.jpg",
+      "nhacungcap": "Bình Tây",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "Phap",
+      "mausac": "trang"
+    },
+    {
+      "id": 11,
+      "name": "Sapiens - Lược Sử Loaì Người",
+      "cost": 174.47,
+      "Giamcost": "24%",
+      "Originalcost": 239,
+      "anh": "thuonghieunoibat-3.jpg",
+      "nhacungcap": "Bình Tây",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "trang"
+    },
+    {
+      "id": 12,
+      "name": "Tập Vẽ Và Thiết Kế",
+      "cost": 174.47,
+      "Giamcost": "24%",
+      "Originalcost": 239,
+      "anh": "thuonghieunoibat-4.jpg",
+      "nhacungcap": "Bình Tây",
+      "nhaxuatban": "NXB Lao Động",
+      "tacgia": "Avinash K Dixit, Barry J Nalebuff",
+      "hinhthucbia": "Bìa mềm",
+      "xuatxu": "VietNam",
+      "mausac": "trang"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Location001"
+    },
+    {
+      "id": 2,
+      "name": "Location002"
+    },
+    {
+      "id": 3,
+      "name": "Location003"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "quan@gmail.com",
+      "password": 123456,
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "abc@gmail.com",
+      "password": 123456,
+      "role": "customer"
+    },
+    {
+      "id": 86,
+      "role": "customer"
+    },
+    {
+      "id": 363,
+      "email": "quanhbps34514@fpt.edu.vn",
+      "password": "123456",
+      "role": "customer"
+    },
+    {
+      "id": 500,
+      "email": "quanhbps34514@fpt.edu.vn",
+      "password": "123456",
+      "role": "customer"
+    },
+    {
+      "id": 327,
+      "email": "quanhbps34514@fpt.edu.vn",
+      "password": "123456",
+      "role": "customer"
+    }
+  ]
+}

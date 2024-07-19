@@ -1,0 +1,136 @@
+<link rel="stylesheet" href="timkiem.css">
+
+<body>
+
+  <div class="container-fluid p-0">
+    <section class="mymaincontent">
+      <div class="container mt-3 mb-3">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="aside">
+              <div class="block-title pt-3">
+                <h1>Lọc Theo</h1>
+                </strong>
+              </div>
+              <hr>
+              <div class="block-category">
+                <div class="block-category-content pt-3 mx-2">
+                  <hr>
+                  <dt>Xuất Xứ</dt>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" id="VietNamCheck" type="checkbox" value="VietNam"
+                      ng-model="selectedOrigins.VietNam" ng-change="originChanged()">
+                    <label class="form-check-label" for="VietNamCheck">
+                      Việt Nam  
+                    </label>
+                  </div>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" id="PhapCheck" type="checkbox" value="Phap"
+                      ng-model="selectedOrigins.Phap" ng-change="originChanged()">
+                    <label class="form-check-label" for="PhapCheck">
+                      Pháp
+                    </label>
+                  </div>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" id="NhatBanCheck" type="checkbox" value="NhatBan"
+                      ng-model="selectedOrigins.NhatBan" ng-change="originChanged()">
+                    <label class="form-check-label" for="NhatBanCheck">
+                      Nhật Bản
+                    </label>
+                  </div>
+
+                  <hr>
+                  <dt>Nhà Cung Cấp</dt>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" type="checkbox" value="" id="CamBrigeCheck">
+                    <label class="form-check-label" for="CamBrigeCheck">
+                      Thiên Long Hoàn Cầu
+                    </label>
+                  </div>
+
+                  <div class="form-check m-2">
+                    <input class="form-check-input" type="checkbox" value="" id="TreCheck">
+                    <label class="form-check-label" for="TreCheck">
+                      Bình Tây
+                    </label>
+                  </div>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" type="checkbox" value="" id="TreCheck">
+                    <label class="form-check-label" for="TreCheck">
+                      Alpha Books
+                    </label>
+                  </div>
+                  <hr>
+                  <dt>Màu sắc</dt>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" type="checkbox" value="" id="CamBrigeCheck">
+                    <label class="form-check-label" for="CamBrigeCheck">
+                      Xanh dương
+                    </label>
+                  </div>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" type="checkbox" value="" id="KimDongCheck">
+                    <label class="form-check-label" for="KimDongCheck">
+                      Đỏ
+                    </label>
+                  </div>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" type="checkbox" value="" id="VanHocCheck">
+                    <label class="form-check-label" for="VanHocCheck">
+                      Trắng
+                    </label>
+                  </div>
+                  <div class="form-check m-2">
+                    <input class="form-check-input" type="checkbox" value="" id="TreCheck">
+                    <label class="form-check-label" for="TreCheck">
+                      Vàng
+                    </label>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-9 article">
+            <div class="searchResult d-flex align-items-center pt-3">
+              
+            </div>
+            <div class="category-products row">
+              <div class="toolbar-top">
+                <div class="col-sm-12 d-flex justify-content-end align-items-center toolbar">
+                  <span>Sắp xếp Theo: </span>
+                  <select class="form-select" ng-model="prop" ng-change="sortBy(prop)">
+                    <option value="cost">Giá Thấp Đến Cao</option>
+                    <option value="name">Tên</option>
+                  </select>
+                </div>
+
+              </div>
+              <hr class="my-3" style="color: #cdcdcd;">
+              <div class="row">
+                <div class="col-md-3 col-sm-6"
+                  ng-repeat="p in Products | orderBy:prop | filter:{name:tukhoa}">
+                  <div class="card w-100">
+                    <img src="img/{{p.anh}}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">{{p.name}}</h5>
+                      <strong class="card-text text-danger">{{p.cost|number:3}}đ <span
+                          class="badge bg-danger text-wrap">{{p.Giamcost}}</span>
+                        <br> </strong>
+                      <span class="text-decoration-line-through">{{p.Originalcost|number:3}}đ</span><br>
+                      <a class="btn btn-danger" href="#!chitiet" ng-click="buyNow(p.id)">Mua ngay</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</body>
