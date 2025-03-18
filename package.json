@@ -1,0 +1,12 @@
+{
+  "name": "fahasa",
+  "version": "1.0.0",
+  "description": "Đây là một dự án sử dụng JSON Server để tạo API giả lập. Vui lòng làm theo các bước sau để chạy project thành công.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
